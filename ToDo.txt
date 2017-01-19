@@ -1,0 +1,8 @@
+Music-Streaming-Client ToDo list
+
+-Add GUI Interface
+-Allow basic playback features
+	-Play/pause
+	-Seek
+-Choose song to play from server
+-Display list of available songs recieved from server
